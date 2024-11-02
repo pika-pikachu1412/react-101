@@ -1,1 +1,1 @@
-# react-1
+Une application de quiz développée en React pour offrir une expérience de quiz amusante et interactive. Cette app permet aux utilisateurs de tester leurs connaissances sur divers sujets grâce à une interface intuitive et facile à utiliser.
